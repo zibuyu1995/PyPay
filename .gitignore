@@ -1,0 +1,31 @@
+# Python / IDE
+__pycache__/
+*.py[cod]
+.Python
+.idea/
+.vscode
+messages.pot
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+.pytest_cache/
+
+# pipenv
+Pipfile.lock
+.venv
+
+# MacOS
+.DS_Store
+
+# Flask
+instance/
+migrations
+
+messages.pot
+
+ip.mmdb
